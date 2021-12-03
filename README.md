@@ -8,11 +8,6 @@
 * OpenCV 3.4.2 or later
 * onnxruntime 1.8.1 or later
 
-mediapipeはpipでインストールできます。
-```bash
-pip install mediapipe
-```
-
 # Demo
 デモの実行方法は以下です。
 ```bash
