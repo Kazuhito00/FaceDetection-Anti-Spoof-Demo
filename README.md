@@ -1,6 +1,6 @@
 # FaceDetection-Anti-Spoof-Demo
 <img src="https://user-images.githubusercontent.com/37477845/144643674-f787b54a-8832-4f3d-9de7-12f929c738ab.gif" width="65%"><br>
-[light-weight-face-anti-spoofing](https://github.com/kprokofi/light-weight-face-anti-spoofing)のWebカメラ向けデモです。<br>
+なりすまし検出([anti-spoof-mn3](https://github.com/openvinotoolkit/open_model_zoo/tree/master/models/public/anti-spoof-mn3))のWebカメラ向けデモです。<br>
 モデルは[PINTO_model_zoo/191_anti-spoof-mn3](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/191_anti-spoof-mn3)からONNX形式のモデルを使用しています。
 
 # Requirement 
